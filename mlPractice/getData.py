@@ -15,4 +15,4 @@ plt.legend(loc = 'upper left')
 plt.show () 
 
 
-
+ppn = Perceptron(eta = 0.1, n_iter = 10) `
